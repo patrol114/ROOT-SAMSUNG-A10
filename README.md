@@ -1,3 +1,5 @@
+# ROOT-SAMSUNG-A10
+
 1. Download Samsung Galaxy A10 Firmware and save it on your PC. Your Current OS version and Downloaded Version AP and CSC should be Same.
 2. Download forced_encryption_disabler, RMM State Bypass. 
 - We Need to flash RMM State to avoid OEM Lock automatically in future after the Root process, and no-verity-opt-encrypt. We Need to flash encryption disabler to avoid Boot Warnings in the future after the Root process. Copy all these files to the external SD Card.
@@ -23,4 +25,14 @@ Press and Hold Volume Up + Power buttons, release all the keys once the Bootload
 Stock Recovery Boot – Press and Hold Volume Up + Power buttons, release keys while you hold the Volume Up key.
  You will see Magisk Manager in your App drawer. If you can’t find the app, you can install Magisk Manager in your mobile.
 
-# Enjoy!
+#### CONTACT 
+
+If you have problems, questions, ideas or suggestions please contact me by posting to wuseman@nr1.nu
+
+#### WEB SITE
+
+Visit my websites and profiles for the latest info and updated tools
+
+https://github.com/wuseman/ && https://nr1.nu && https://stackoverflow.com/users/9887151/wuseman
+
+#### END!
