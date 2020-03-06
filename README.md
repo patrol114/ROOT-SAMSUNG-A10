@@ -15,12 +15,17 @@
 6. Now you see you have magisk_patched.rar, copy it to your PC by adb pull /path/to/new.tar.file
 
 # Flash Progress
+
 1     Switch off your Mobile. Enter into Download mode->Volume Down+ Volume Up Buttons and Connect Your Mobile To PC via USB Cable, After Samsung Logo Appear, Release all keys.
+
 2. Flash your device with odin and insted of default AP use our magisk patched tar file
+
 3. After the process complete, Press Volume Down+ Power button to exit Download mode. When the screen goes off, Immediately Press Volume Up + Power buttons to boot into Recovery mode.
+
 4. After entering into Stock recovery mode, Go to Wipe Data/Factory Reset and Select Yes to wipe data. It will erase your saved data in your device. Don’t Boot into OS, Read below Boot stages before booting
 
 # Boot into Rooted OS
+
 Press and Hold Volume Up + Power buttons, release all the keys once the Bootloader warning appears. You have to set up your device like a new device. You can select the root status using Root Checker.
 Stock Recovery Boot – Press and Hold Volume Up + Power buttons, release keys while you hold the Volume Up key.
  You will see Magisk Manager in your App drawer. If you can’t find the app, you can install Magisk Manager in your mobile.
